@@ -63,6 +63,8 @@ The project is a Hybrid GI solution, partly inspired by Lumen and DDGI. The main
 
 ## Acknowledgments
 
+https://deepwiki.com/flwmxd/LuxGI/1-overview
+
 This project is made with lots of awesome open-source code, they are
 
 * [RTXGI](https://github.com/NVIDIAGameWorks/RTXGI), the fully raytracing DDGI implementation.
